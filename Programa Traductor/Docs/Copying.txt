@@ -1,0 +1,3 @@
+Copyright (c) 1999-2015 Vaclav Slavik
+
+All rights reserved.
