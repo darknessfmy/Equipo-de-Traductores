@@ -1,0 +1,51 @@
+# Valhallen Ragnarok Online 2016 (VRO)
+# Proyecto de Traducción Privada de Ragnarok Online a español Latino
+# ESTE ARCHIVO ES CONFIDENCIAL Y DE USO EXCLUSIVO PARA VRO
+#
+# Este trabajo es fruto del esfuerzo de todos los colaboradores miembros de vRO que contribuyeron
+# a la traducción del juego a Español Latino. Muchas gracias
+# Créditos:
+# - Próximamente
+msgid ""
+msgstr ""
+"Project-Id-Version: vRO en Español Latino\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Traductores de Valhallen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_419\n"
+
+# mes "EJEMPLOS DE DARKNESS:";
+#: npc/cities/prontera.txt
+msgctxt "YuPi#pront"
+msgid "EJEMPLOS DE DARKNESS: Aquí el texto en ingles (here text in english)"
+msgstr "Aquí el texto en español"
+
+# mes "[YuPi]";
+#: npc/cities/prontera.txt
+msgctxt "YuPi#pront"
+msgid "[YuPi]"
+msgstr ""
+
+# mes "Although many monsters may look the same, be careful! There are variations among monsters that have the same basic form.";
+#: npc/cities/prontera.txt
+msgctxt "YuPi#pront"
+msgid "Although many monsters may look the same, be careful! There are variations among monsters that have the same basic form."
+msgstr ""
+
+# mes "One monster, that looks just like a peaceful and weak one that you've already encountered, may actually be wild and ferocious!";
+#: npc/cities/prontera.txt
+msgctxt "YuPi#pront"
+msgid "One monster, that looks just like a peaceful and weak one that you've already encountered, may actually be wild and ferocious!"
+msgstr ""
+
+# mes "You can tell these kinds of monsters apart by their body color. Wilder and more powerful monsters have more dangerous looking colors.";
+#: npc/cities/prontera.txt
+msgctxt "YuPi#pront"
+msgid "You can tell these kinds of monsters apart by their body color. Wilder and more powerful monsters have more dangerous looking colors."
+msgstr ""
